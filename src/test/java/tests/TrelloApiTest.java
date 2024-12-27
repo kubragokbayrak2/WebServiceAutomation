@@ -51,4 +51,5 @@ public class TrelloApiTest {
         boardPage.deleteBoard(board.getId());
         System.out.println("Deleted board");
     }
-} 
+}
+
